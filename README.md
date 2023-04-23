@@ -1,6 +1,7 @@
 # Netflix-Prime-Hotstar-Dashboard-Power-BI
 
-[![Views](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)](https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)
+![Profile Visitors](https://gpvc.arturio.dev/undiscovered-genius) 
+[![Repository Visitors](https://visitor-badge.glitch.me/badge?page_id=undiscovered-genius.undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)](https://github.com/undiscovered-genius/Netflix-Prime-Hotstar-Dashboard-Power-BI)
 
 ## Dataset (Kaggle)
 ### Netflix Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
